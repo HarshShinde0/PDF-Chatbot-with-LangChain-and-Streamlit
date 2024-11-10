@@ -2,6 +2,15 @@
 
 This project is a chatbot application that enables users to upload multiple PDF files and interact with their content through natural language queries. Using the LangChain library with Hugging Face embeddings and language models, the application extracts and vectorizes PDF content, allowing users to ask questions based on the uploaded documents. The project is deployed using Streamlit and Docker.
 
+## Docker Image
+
+This project’s Docker image is available on Docker Hub:
+
+[![Docker Image](https://img.shields.io/badge/DockerHub-Image-blue?logo=docker&style=flat)](https://hub.docker.com/r/harshshinde/pdf-chat-app)
+
+You can pull the image using:
+
+
 ## Table of Contents
 
 - [Features](#features)
