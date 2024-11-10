@@ -43,7 +43,7 @@ You can pull the image using:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/pdf-chatbot.git
+   git clone https://github.com/HarshShinde0/PDF-Chatbot-with-LangChain-and-Streamlit.git
    cd pdf-chatbot
 
 Set Up Environment Variables:
