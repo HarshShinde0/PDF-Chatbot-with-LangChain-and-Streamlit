@@ -7,10 +7,9 @@ This project is a chatbot application that enables users to upload multiple PDF 
 This project’s Docker image is available on Docker Hub:
 
 [![Docker Image](https://img.shields.io/badge/DockerHub-Image-blue?logo=docker&style=flat)](https://hub.docker.com/r/harshshinde/pdf-chat-app)
-   #
-  ```bash
+
 docker pull harshshinde/pdf-chat-app
-  ```bash
+
 docker run -d -p 8501:8501 harshshinde/pdf-chat-app
 
 You can pull the image using:
