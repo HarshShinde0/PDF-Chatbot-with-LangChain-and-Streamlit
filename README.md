@@ -1,5 +1,5 @@
-# PDF Chatbot with LangChain, Hugging Face, and Streamlit
-https://pdf-chatbot-with-langchain.streamlit.app/
+# [PDF Chatbot with LangChain, Hugging Face, and Streamlit](https://pdf-chatbot-with-langchain.streamlit.app/)
+
 
 This project is a chatbot application that enables users to upload multiple PDF files and interact with their content through natural language queries. Using the LangChain library with Hugging Face embeddings and language models, the application extracts and vectorizes PDF content, allowing users to ask questions based on the uploaded documents. The project is deployed using Streamlit and Docker.
 
